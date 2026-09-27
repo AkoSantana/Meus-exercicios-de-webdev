@@ -1,2 +1,2 @@
-# Meus exercicios de webdev
-Area de treino para HTML, CSS e JS
+# Exercicios_HTML_CSS_JS
+Exercicios para aprendizado
